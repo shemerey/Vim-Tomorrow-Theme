@@ -17,6 +17,7 @@ let s:aqua = "70c0b1"
 let s:blue = "7aa6da"
 let s:purple = "c397d8"
 let s:pink = "f9266d"
+let s:window = "5e5e5e"
 
 set background=dark
 hi clear
